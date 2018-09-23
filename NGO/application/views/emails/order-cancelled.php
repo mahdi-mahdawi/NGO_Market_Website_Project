@@ -1,0 +1,1 @@
+<p><strong>Your order #{order_reference} has been cancelled. </strong></p>

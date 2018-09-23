@@ -1,0 +1,7 @@
+{
+    "require": {
+        "omnipay/stripe": "~2.0",
+        "twilio/sdk": "^4.10",
+        "arcturial/clickatell": "*"
+    }
+}
